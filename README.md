@@ -2,8 +2,8 @@
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krushal-kalal-13a1a5114/)](https://www.linkedin.com/in/krushal-kalal-13a1a5114/)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/18881193/krushal-kalal)
+[![Linkedin Badge](https://img.shields.io/badge/-KrushalKalal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krushal-kalal-13a1a5114/)](https://www.linkedin.com/in/krushal-kalal-13a1a5114/)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-KrushalKalal-yellow)](https://stackoverflow.com/users/18881193/krushal-kalal)
 
 I'm
 Full Stack Solution Architect
